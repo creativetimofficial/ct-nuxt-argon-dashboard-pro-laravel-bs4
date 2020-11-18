@@ -1,11 +1,11 @@
 # Changelog
 
-All notable changes to `Vue Material Dashboard Laravel PRO`  will be documented in this file.
+All notable changes to `Nuxt Argon Dashboard PRO Laravel`  will be documented in this file.
 
 ## Version 1.0.0
 
 ### Added
-- Vue Material Dashboard PRO
+- Nuxt Argon Dashboard PRO
 - Login
 - Register
 - Profile edit
