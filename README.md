@@ -1710,9 +1710,8 @@ We use GitHub Issues as the official bug tracker for the Argon Kit. Here are som
 
 ## Licensing
 
-- Copyright 2018 Creative Tim (https://www.creative-tim.com/?ref=nadpl-readme)
-
-- Licensed under MIT (https://github.com/creativetimofficial/nuxt-argon-dashboard/blob/master/LICENSE.md)
+- Copyright Creative Tim (https://www.creative-tim.com/?ref=nadpl-readme)
+- Creative Tim License (https://www.creative-tim.com/license).
 
 ## Useful Links
 
