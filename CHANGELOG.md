@@ -15,3 +15,6 @@ All notable changes to `Nuxt Argon Dashboard PRO Laravel`  will be documented in
 - Category CRUD
 - Item CRUD
 - User roles & access restrictions
+
+## Version 1.0.1
+Compatibility with node.js v14.x LTS
